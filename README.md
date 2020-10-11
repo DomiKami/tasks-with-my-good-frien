@@ -15,7 +15,7 @@ Variety of things created by them that impress me greatly <br>
 Everything will surely change <br><br>
 Yesterday I made sure to ask for more tasks <br>
 Of course I'll at least try to improve <br>
-Understanding c++, js, c#, python and more is my dream <br> <br>
+Understanding c++, js, c# and python is my dream <br> <br>
 Unforgettable journey awaits me <br>
 Prepare to be amazed once I get good at programming :)<br>
 <h1> リックロール </h1>
