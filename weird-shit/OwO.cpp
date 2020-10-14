@@ -3,10 +3,9 @@
 using namespace std;
 
 void OwOfy(string notowo) {
-    char w = 'w';
         for (int i = 0; i < notowo.size(); i++)
             if (notowo[i] == 'l' or notowo[i] == 'r')
-                cout << w;
+                cout << 'w';
             else
                 cout << notowo[i];
         cout << "owo";
